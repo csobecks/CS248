@@ -1,0 +1,21 @@
+10
+1 2 6 10 
+A sign says EGG
+2 1 3 7 
+This level is dark
+3 2 4 8 
+The level is stinky
+4 3 5 9 
+The level is round
+5 4 6 10 
+The level has a little man in the corner
+6 1 5 7 
+Yikes! you stepped in something
+7 2 6 8 
+The eggman is not in this room
+8 3 7 9 
+OOOOOO spooky ghost egg
+9 4 8 10 
+There's an empty ring case here
+10 1 5 9 
+ReeEEEEEEEEE says the robot in the corner
